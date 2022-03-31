@@ -59,7 +59,7 @@ class CollectionView: UIView {
     }
     
     func setup() {
-        transformArray()
+//        transformArray()
     }
     
     func transformArray() {
