@@ -87,6 +87,7 @@ class CollectionView: UIView {
         tempArray.removeAllObjects()
     }
     
+    // 调整 index。key 为 indexPath.item，value 为调整后 index
     func transformIndex(_ index: Int) -> Int {
         let map = [
             0: 0,
