@@ -3,7 +3,7 @@
 CollectionView+PageControl 实现 UICollectionView 横向整页滑动，并实现 Cell 从左至右、从上向下的顺序排列。并使用 UIPageControl 配合显示当前页所处位置。
 
 ## 效果预览：
-
+![image](https://github.com/once-liu/CollectionView-PageControl/blob/main/Source/preview.gif)
 
 ## 功能实现：
 - 横向\
